@@ -78,6 +78,7 @@ Enfocado en conceptos básicos de Linux y navegación por terminal.
 
 </details>
 
+---
 
 ## 📂 Estructura del repositorio
 
