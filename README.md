@@ -4,6 +4,13 @@ Este repositorio documenta mi progreso resolviendo los desafíos de **OverTheWir
 
 ---
 
+## 📈 Progreso
+
+*  ✔ Actualmente trabajando en: **Bandit**
+* 🎯 Próximos: Natas, Leviathan
+
+---
+
 ## 🎯 Objetivo
 
 * Mejorar habilidades en **Linux**, **redes** y **seguridad informática**
@@ -24,7 +31,7 @@ Enfocado en conceptos básicos de Linux y navegación por terminal.
 | Level 2 → 3   | ⏳      | En progreso |
 
 <details>
-<summary>Ver niveles</summary>
+<summary>🔽 Ver niveles</summary>
 <br>
 
 | Nivel         | Estado | Writeup     |
@@ -59,10 +66,14 @@ Enfocado en conceptos básicos de Linux y navegación por terminal.
 
 * `ssh`
 * `cat`, `ls`, `cd`
+
+<details>
+```
 * `grep`, `find`
 * `strings`, `file`
 * `base64`, `xxd`
-
+```
+</details> 
 ---
 
 ## 📂 Estructura del repositorio
@@ -95,9 +106,5 @@ Se recomienda intentar resolver los desafíos antes de ver las soluciones.
 
 ---
 
-## 📈 Progreso
-
-✔ Actualmente trabajando en: **Bandit**
-🎯 Próximos: Natas, Leviathan
 
 
