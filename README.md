@@ -64,16 +64,19 @@ Enfocado en conceptos básicos de Linux y navegación por terminal.
 
 ## 🛠️ Herramientas utilizadas
 
-* `ssh`
-* `cat`, `ls`, `cd`
+- `ssh`
+- `cat`, `ls`, `cd`
 
 <details>
-```
-* `grep`, `find`
-* `strings`, `file`
-* `base64`, `xxd`
-```
-</details> 
+<summary>🔽 Ver más herramientas</summary>
+
+<br>
+
+- `grep`, `find`
+- `strings`, `file`
+- `base64`, `xxd`
+
+</details>
 ---
 
 ## 📂 Estructura del repositorio
