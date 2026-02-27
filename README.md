@@ -25,6 +25,7 @@ Enfocado en conceptos básicos de Linux y navegación por terminal.
 
 <details>
 <summary>Ver niveles</summary>
+| ------------- | ------ | ----------- |
 | Level 3 → 4   | ⏳      | En progreso |
 | Level 4 → 5   | ⏳      | En progreso |
 | Level 5 → 6   | ⏳      | En progreso |
