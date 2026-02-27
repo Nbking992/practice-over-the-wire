@@ -52,7 +52,7 @@ cat readme
 La contraseña para el siguiente nivel es:
 
 ```bash
-<password>
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
 
 ---
