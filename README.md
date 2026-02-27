@@ -25,6 +25,8 @@ Enfocado en conceptos básicos de Linux y navegación por terminal.
 
 <details>
 <summary>Ver niveles</summary>
+<br>
+
 | Nivel         | Estado | Writeup     |
 | ------------- | ------ | ----------- |
 | Level 3 → 4   | ⏳      | En progreso |
