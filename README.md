@@ -94,11 +94,4 @@ Se recomienda intentar resolver los desafíos antes de ver las soluciones.
 ✔ Actualmente trabajando en: **Bandit**
 🎯 Próximos: Natas, Leviathan
 
----
 
-## 🙌 Autor
-
-**Federico**
-Apasionado por la ciberseguridad y el hacking ético.
-
----
