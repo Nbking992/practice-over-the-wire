@@ -20,7 +20,7 @@ Enfocado en conceptos básicos de Linux y navegación por terminal.
 
 | Nivel         | Estado | Writeup     |
 | ------------- | ------ | ----------- |
-| Level 0 → 1   | ⏳      | [Ver solución](./bandit/level0-1.md) |
+| Level 0 → 1   | ✅      | [Ver solución](./bandit/level0-1.md) |
 | Level 1 → 2   | ⏳      | En progreso |
 | Level 2 → 3   | ⏳      | En progreso |
 | Level 3 → 4   | ⏳      | En progreso |
