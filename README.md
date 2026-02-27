@@ -17,15 +17,14 @@ Este repositorio documenta mi progreso resolviendo los desafíos de **OverTheWir
 ### 🟢 Bandit
 
 Enfocado en conceptos básicos de Linux y navegación por terminal.
-
-<details>
-<summary>Ver niveles</summary>
-
 | Nivel         | Estado | Writeup     |
 | ------------- | ------ | ----------- |
 | Level 0 → 1   | ✅      | [Ver solución](./bandit/level0-1.md) |
 | Level 1 → 2   | ⏳      | En progreso |
 | Level 2 → 3   | ⏳      | En progreso |
+
+<details>
+<summary>Ver niveles</summary>
 | Level 3 → 4   | ⏳      | En progreso |
 | Level 4 → 5   | ⏳      | En progreso |
 | Level 5 → 6   | ⏳      | En progreso |
@@ -49,9 +48,8 @@ Enfocado en conceptos básicos de Linux y navegación por terminal.
 | Level 23 → 24 | ⏳      | En progreso |
 | Level 24 → 25 | ⏳      | En progreso |
 | Level 25 → 26 | ⏳      | En progreso |
-
 </details>
----
+
 
 ## 🛠️ Herramientas utilizadas
 
