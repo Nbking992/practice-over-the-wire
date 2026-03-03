@@ -42,6 +42,7 @@ No muestra archivos.
 ---
 
 ## 🧩 Solución
+
 ###Mostrar archivos ocultos
 ls -a
 ls -A
