@@ -26,9 +26,9 @@ Este repositorio documenta mi progreso resolviendo los desafíos de **OverTheWir
 Enfocado en conceptos básicos de Linux y navegación por terminal.
 | Nivel         | Estado | Writeup     |
 | ------------- | ------ | ----------- |
-| Level 0 → 1   | ✅      | [Ver solución](./bandit/level0-1.md) |
-| Level 1 → 2   | ⏳      | En progreso |
-| Level 2 → 3   | ⏳      | En progreso |
+| Level 0 → 1   | ✅     | [Ver solución](./bandit/level0-1.md) |
+| Level 1 → 2   | ✅     | [Ver solución](./bandit/level1-2.md) |
+| Level 2 → 3   | ✅     | [Ver solución](./bandit/level2-3.md) |
 
 <details>
 <summary>🔽 Ver niveles</summary>
