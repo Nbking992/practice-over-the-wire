@@ -44,8 +44,10 @@ No muestra archivos.
 ## 🧩 Solución
 
 ###  Mostrar archivos ocultos
+```bash
 ls -a
 ls -A
+```
 
 Las diferencia con a y A es que no muestran los `.` y `..`
 
