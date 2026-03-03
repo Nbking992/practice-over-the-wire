@@ -36,9 +36,9 @@ Enfocado en conceptos básicos de Linux y navegación por terminal.
 
 | Nivel         | Estado | Writeup     |
 | ------------- | ------ | ----------- |
-| Level 3 → 4   | ⏳      | En progreso |
-| Level 4 → 5   | ⏳      | En progreso |
-| Level 5 → 6   | ⏳      | En progreso |
+| Level 3 → 4   | ✅     | [Ver solución](./bandit/level3-4.md) |
+| Level 4 → 5   | ✅     | [Ver solución](./bandit/level4-5.md) |
+| Level 5 → 6   | ✅     | [Ver solución](./bandit/level5-6.md) |
 | Level 6 → 7   | ⏳      | En progreso |
 | Level 7 → 8   | ⏳      | En progreso |
 | Level 8 → 9   | ⏳      | En progreso |
