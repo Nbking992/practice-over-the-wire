@@ -36,29 +36,16 @@ Linux interpreta cada palabra como un argumento separado.
 
 ## 🧩 Solución
 
-### 1️⃣ Conectarse al servidor
-
 ```bash
-ssh bandit2@bandit.labs.overthewire.org -p 2220
-```
-
----
-
-### 2️⃣ Listar archivos
-
-```bash
-ls
-```
-
-Salida:
-
-```
+bandit2@bandit:~$ ls
 --spaces in this filename--
+bandit2@bandit:~$ cat ./"--spaces in this filename--"  
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+bandit2@bandit:~$ cat ./--spaces\ in\ this\ filename--
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 ```
 
----
-
-### 3️⃣ Leer el archivo correctamente
+###  Leer el archivo correctamente
 
 Hay dos formas correctas de hacerlo:
 
