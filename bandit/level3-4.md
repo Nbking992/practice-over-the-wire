@@ -43,7 +43,7 @@ No muestra archivos.
 
 ## 🧩 Solución
 
-###Mostrar archivos ocultos
+###  Mostrar archivos ocultos
 ls -a
 ls -A
 
