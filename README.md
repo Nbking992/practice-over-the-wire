@@ -39,7 +39,7 @@ Enfocado en conceptos básicos de Linux y navegación por terminal.
 | Level 3 → 4   | ✅     | [Ver solución](./bandit/level3-4.md) |
 | Level 4 → 5   | ✅     | [Ver solución](./bandit/level4-5.md) |
 | Level 5 → 6   | ✅     | [Ver solución](./bandit/level5-6.md) |
-| Level 6 → 7   | ⏳      | En progreso |
+| Level 6 → 7   | ✅     | [Ver solución](./bandit/level6-7.md) |
 | Level 7 → 8   | ⏳      | En progreso |
 | Level 8 → 9   | ⏳      | En progreso |
 | Level 9 → 10  | ⏳      | En progreso |
