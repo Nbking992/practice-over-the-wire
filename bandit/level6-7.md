@@ -80,7 +80,7 @@ morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 * Filtrado por usuario y grupo
 * Redirección de errores (`2>/dev/null`)
 * Manejo de permisos en Linux
-* Tip aprendido, ejecutar comandos dentro de `find`.
+* Ejecutar comandos dentro de `find`.
 
 ---
 
