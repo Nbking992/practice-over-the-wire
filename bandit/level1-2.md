@@ -32,34 +32,15 @@ no funciona como se espera.
 
 ## 🧩 Solución
 
-### 1️⃣ Conectarse al servidor
+###  Leer el archivo correctamente
+
+Para indicarle a `cat` que `-` es un archivo y no stdin, se usa `./`:
 
 ```bash
-ssh bandit1@bandit.labs.overthewire.org -p 2220
-```
-
----
-
-### 2️⃣ Listar archivos
-
-```bash
-ls
-```
-
-Salida:
-
-```bash
+bandit1@bandit:~$ ls
 -
-```
-
----
-
-### 3️⃣ Leer el archivo correctamente
-
-Para indicarle a `cat` que `-` es un archivo y no stdin, se usa:
-
-```bash
-cat ./-
+bandit1@bandit:~$ cat ./-
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ```
 
 ---
