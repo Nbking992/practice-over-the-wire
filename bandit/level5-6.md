@@ -112,9 +112,3 @@ Este nivel enseña:
 * Búsqueda recursiva
 
 ---
-
-## 🚀 Siguiente nivel
-
-👉 [Level 6 → 7](./level6-7.md)
-
----
