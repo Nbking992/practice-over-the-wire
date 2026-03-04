@@ -60,7 +60,7 @@ find / -type f -user bandit7 -group bandit6 -size 33c  -exec cat {} + 2>/dev/nul
 * `-group bandit6` → grupo bandit6
 * `-size 33c` → tamaño exacto en bytes
 * `2>/dev/null` → ocultar errores de permisos
-* `-exec cat {}` → ejectuar `cat` y leer las salidas del find
+* `-exec cat {}` → ejecutar `cat` y leer las salidas del find
 
 ---
 
