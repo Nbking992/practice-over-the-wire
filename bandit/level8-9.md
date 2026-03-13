@@ -4,7 +4,17 @@
 
 Encontrar la contraseña para el siguiente nivel.
 
-La contraseña es **la única línea del archivo `data.txt` que aparece una sola vez**.
+La contraseña es **la única línea del archivo `data.txt` que aparece una sola vez**
+
+```bash
+bandit8@bandit:~$ cat data.txt 
+UD0JGdEzC9MvLEFryrg13oTd5Hb07iWd
+7GmAoWty7FVrx69vVdHsWI3K7bhXB7ck
+XFZ2qtQ5m9FCzyje1e5fCvm2F1TeU5pJ
+SigSsDLtaSCPLVAD19uwb7HMhgacgZIQ
+n4AyXe6YBg4jxCI962uvCGds9tmRDEC0
+X4Jb6zVDJ9UdgbMwRYkNcFY8Ej9DvF1Y
+```
 
 ---
 
