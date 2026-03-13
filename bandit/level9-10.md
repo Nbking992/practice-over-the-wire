@@ -50,7 +50,14 @@ FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 
 ---
 
-## 🧠 Conceptos aprendidos
+## 🧠 Explicación
+
+Con el comando `strings` extraigo el texto legible para luego usar `grep` y buscar la contraseña.
+La idea tambien se basa en tener en cuenta la parte de " **precedida por varios caracteres `=`** ", por eso `grep` contiene 3 `=` ya que tomo en cuenta esa afirmacion.
+
+---
+
+## 📌 Conceptos aprendidos
 
 * Análisis de archivos binarios
 * Uso de `strings`
