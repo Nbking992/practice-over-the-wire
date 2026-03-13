@@ -43,6 +43,18 @@ Este comando transforma el texto codificado en su forma original.
 
 ---
 
+---
+
+## 🔑 Resultado
+
+La contraseña para el siguiente nivel es:
+
+```bash
+dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+```
+
+---
+
 ## 📌 Conceptos aprendidos
 
 * Codificación Base64
