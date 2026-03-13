@@ -43,8 +43,6 @@ Este comando transforma el texto codificado en su forma original.
 
 ---
 
----
-
 ## 🔑 Resultado
 
 La contraseña para el siguiente nivel es:
