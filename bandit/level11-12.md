@@ -53,16 +53,20 @@ Esto rota cada letra **13 posiciones**, revirtiendo la codificación.
 
 ---
 
+## 🔑 Resultado
+
+La contraseña para el siguiente nivel es:
+
+```bash
+7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+```
+
+---
+
 ## 📌 Conceptos aprendidos
 
 * Cifrado ROT13
 * Uso del comando `tr`
 * Transformación de texto en Linux
-
----
-
-## 🚀 Siguiente nivel
-
-👉 [Level 12 → 13](./level12-13.md)
 
 ---
