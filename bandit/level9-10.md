@@ -22,7 +22,7 @@ El archivo `data.txt` contiene principalmente **datos binarios**, por lo que abr
 
 ---
 
-# 🧩 Solucion
+## 🧩 Solucion
 
 ```bash
 bandit9@bandit:~$ strings data.txt | grep '==='
