@@ -14,6 +14,8 @@ En este nivel no usamos una contraseña directamente, sino una **clave privada S
 * Host: `bandit.labs.overthewire.org`
 * Puerto: `2220`
 
+---
+
 ## 🧩 Solución
 
 ```bash 
