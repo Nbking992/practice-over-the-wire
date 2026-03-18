@@ -36,7 +36,7 @@ bandit13@bandit:~$ exit
 user@antix1:~/Desktop/practice-over-the-wire/bandit$ scp -P 2220 bandit13@bandit.labs.overthewire.org:/home/bandit13/sshkey.private .
 user@antix1:~/Desktop/practice-over-the-wire/bandit$ chmod 600 sshkey.private
 user@antix1:~/Desktop/practice-over-the-wire/bandit$ ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220
-bandit13@bandit:~$ cat /etc/bandit_pass/bandit14
+bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
 MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
 ```
