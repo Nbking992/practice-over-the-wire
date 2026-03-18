@@ -14,6 +14,7 @@ La contraseña debe enviarse a un servicio que escucha en el **puerto 30000** en
 * Host: `bandit.labs.overthewire.org`
 * Puerto: `2220`
 
+---
 
 ## 🧩 Solución
 
